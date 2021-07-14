@@ -1,7 +1,7 @@
 class CephClient < Formula
   desc "Ceph client tools and libraries"
   homepage "https://ceph.com"
-  url "https://gitee.com/mytting/ceph.git", :using => :git, :revision => "7efb7486e2a9632849ccf3d62506d5c381c8f418"
+  url "https://gitee.com/mytting/ceph.git", :using => :git, :revision => "0f33fed240c6819fda21e7268d6820cb840ad145"
   version "quincy-17.0.0-4483-g0def4cf21d8"
 
   bottle do
